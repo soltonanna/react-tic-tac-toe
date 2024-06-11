@@ -6,11 +6,15 @@ Play famous Tic-Tac-Toe Game with you friends or alone!
 ## Install
 
 ```sh
-npm init
+npm install
 ```
 
 ```sh
-npm start
+npm dev
+```
+
+```sh
+npm preview
 ```
 
 ## Demo
